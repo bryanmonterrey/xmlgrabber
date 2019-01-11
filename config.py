@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 filename          = 'sitemaplinklist.txt' #filename to save sitemap links to
-numresults        = 100  #number of results to retrieve 
+numresults        = 50  #number of results to retrieve 
 keyword           = "nmd" #keyword to search for within sitemap
 
 #note: if you put the number of results to like 1000 ur gonna get blocked (temporarily)
